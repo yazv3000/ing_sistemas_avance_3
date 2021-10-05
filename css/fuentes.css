@@ -1,0 +1,100 @@
+/* ===================================================================
+ *  01. Fuentes
+ * ------------------------------------------------------------------- */
+ @font-face {
+    font-family: 'bebas_neuelight';
+    src: url('../fonts/bebasneue_light-webfont.woff2') format('woff2'), url('wp-content/themes/semplice4-child/fonts/bebasneue_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas_neue_regularregular';
+    src: url('../fonts/bebasneue_regular-webfont.woff2') format('woff2'), url('wp-content/themes/semplice4-child/fonts/bebasneue_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas_neuebook';
+    src: url('../fonts/bebasneue_book-webfont.woff2') format('woff2'), url('wp-content/themes/semplice4-child/fonts/bebasneue_book-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas_neuebold';
+    src: url('../fonts/bebasneue_bold-webfont.woff2') format('woff2'), url('wp-content/themes/semplice4-child/fonts/bebasneue_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'muliregular';
+    src: url('../fonts/muli-webfont.woff2') format('woff2'), url('wp-content/themes/semplice4-child/fonts/muli-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'mulibold';
+    src: url('../fonts/muli-bold-webfont.woff2') format('woff2'), url('wp-content/themes/semplice4-child/fonts/muli-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font_lw6b2zg27,
+[data-font="font_lw6b2zg27"],
+[data-font="font_lw6b2zg27"] li a {
+    font-family: "bebas_neuelight", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font_c8pb10h7l,
+[data-font="font_c8pb10h7l"],
+[data-font="font_c8pb10h7l"] li a {
+    font-family: "bebas_neue_regularregular", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font_7a2duahv5,
+[data-font="font_7a2duahv5"],
+[data-font="font_7a2duahv5"] li a {
+    font-family: "bebas_neuebook", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font_6kklxjpkl,
+[data-font="font_6kklxjpkl"],
+[data-font="font_6kklxjpkl"] li a,
+#content-holder h1,
+#content-holder h2,
+#content-holder h3,
+#content-holder h4,
+#content-holder h5,
+#content-holder h6 {
+    font-family: "bebas_neuebold", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font_b9t75gsvg,
+[data-font="font_b9t75gsvg"],
+[data-font="font_b9t75gsvg"] li a,
+#content-holder p,
+#content-holder li {
+    font-family: "muliregular", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font_jzbcz8nyq,
+[data-font="font_jzbcz8nyq"],
+[data-font="font_jzbcz8nyq"] li a {
+    font-family: "mulibold", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
