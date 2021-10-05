@@ -1109,6 +1109,11 @@ body #content-holder .hero-text-container p {
     line-height: 1.25em;
 }
 
+.serie a.title.link:hover, .serie a.title.link:focus{
+    color: rgb(134, 171, 252);
+}
+
+
 .wp-block-image ul{
     margin: auto;
 }
@@ -1122,7 +1127,6 @@ body #content-holder .hero-text-container p {
     margin-top: 30px;
     border: 0.5em solid white;
 }
-
 /* ===================================================================
  *  11. Sección Eventos
  * ------------------------------------------------------------------- */
